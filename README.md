@@ -11,9 +11,9 @@ urlFragment: "couchbaseTocosmosdb"
 ---
 
 # Scenarios
-- AsyncInSpring: A Couchbase application using spring boot at application layer but at the data layer it is using Async Java.
-- AsyncKeyValue: A Couchbase application having data model as Key/Value, written in Async Java.
-- SpringCosmos: A Couchbase application using spring data at data layer.
+- [AsyncInSpring](./AsyncInSpring): A Couchbase application using spring boot at application layer but at the data layer it is using Async Java.
+- [AsyncKeyValue](./AsyncKeyCalue): A Couchbase application having data model as Key/Value, written in Async Java.
+- [SpringCosmos](./SpringCosmos): A Couchbase application using spring data at data layer.
 ## Contents
 Please refer individual projects for details, execution steps, pre-requisites etc.
 
